@@ -7,7 +7,7 @@
 ### We measure similarity between users through Pearson correlation coefficients
 ### Furthermore, we recommend destinations that we have not experienced through users with similarities
 #
-#### One-hot encoding
-#### Pearson correlation coefficients
-#### Similarities
-#### Python
+- One-hot encoding
+- Pearson correlation coefficients
+- Similarities
+- Python
