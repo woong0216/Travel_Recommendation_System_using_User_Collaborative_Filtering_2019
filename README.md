@@ -1,6 +1,6 @@
 # Data_Project-Travel_Recommendation_System_using_User_Collaborative_Filtering
 #
-## Seoultech Industrial 2019 Capstone Design
+## Seoultech Industrial 2019 Capstone Design with kim dong wook
 #
 ### It was conducted through a survey on the tendency of nearby acquaintances to travel
 ### we preprocessed it through one hot encoding
