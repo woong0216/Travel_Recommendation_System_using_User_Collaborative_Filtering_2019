@@ -7,5 +7,5 @@
 > Analysis
 * One-hot encoding
 * Pearson correlation coefficients
-* Similarities
+* Cosine Similarity
 * Python
