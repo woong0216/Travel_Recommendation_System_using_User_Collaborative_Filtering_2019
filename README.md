@@ -1,4 +1,4 @@
-# Travel_Recommendation_System_using_User_Collaborative_Filtering
+# Travel Recommendation System using User Collaborative Filtering
 - Seoultech Industrial 2019 Capstone Design with Kim Dong Wook
 
 
@@ -72,5 +72,3 @@
 ## Conclusion
 - As data accumulates, there will be fluctuations, so it is expected that many data will be accumulated to increase stability.
 - You can determine if you are satisfied with your travel destination without going to it in advance.
-
-
