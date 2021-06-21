@@ -1,5 +1,5 @@
 # Travel Recommendation System using User Collaborative Filtering
-- Seoultech Industrial 2019 Capstone Design with Kim Dong Wook
+- Seoultech Industrial 2019 Capstone Design (Han Jae Woong, Kim Dong Wook)
 
 
 ## Propose
